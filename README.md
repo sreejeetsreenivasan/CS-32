@@ -1,7 +1,5 @@
 # CS-32
-Projects as completed in UCLA CS 32, Winter 202
-I am testing the feature branch and commmiting locally and then
-pushing to origin to test merging of Github
+Projects as completed in UCLA CS 32, Winter 2023
 
-
-3
+Modify line 29 in "main.cpp" in PeachParty project to the local directory where the downloaded Assets folder is 
+stored
